@@ -1,0 +1,31 @@
+name: Initial commit
+
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Validate PR commits
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check commit messages
+        uses: gsactions/commit-message-checker@v1
+        with:
+          pattern: '^Initial Commit$'
+          flags: 'gi'
+          error: 'All commit messages MUST be "Initial Commit" (case insensitive). See https://github.com/Plazmaz/awful-gitposts/blob/meme/CONTRIBUTING.md'
