@@ -41,10 +41,14 @@
 - [Potato](https://github.com/drtshock/Potato)
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [Pewpew](https://github.com/hrbrmstr/pewpew)
+- [Meta](/)
 ### Repos that do dumb stuff
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [Darkweb kittens](https://github.com/alexhaydock/DarkwebKittens)
 - [A terrible mute switch](https://github.com/EelisRouvinen/mute-switch)
+- [HoneyPoC](https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC)
+- [Threat Actor Names](https://github.com/Plazmaz/threat-actor-names)
+- [Pokémon or Big Data](https://github.com/pixelastic/pokemonorbigdata)
 
 
 ## Repos with vulgar names
@@ -53,4 +57,4 @@
 
 ## Related lists
 - [github-drama](https://github.com/nikolas/github-drama/)
-- [FizzBuzz gone wrong](https://github.com/chunfeilung/fizzbuzz)
+- [FizzBuzz Gone Wrong](https://github.com/chunfeilung/fizzbuzz)
