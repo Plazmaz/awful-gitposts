@@ -41,7 +41,7 @@
 - [Potato](https://github.com/drtshock/Potato)
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [Pewpew](https://github.com/hrbrmstr/pewpew)
-- [Meta](/)
+- [Meta](/README.md)
 ### Repos that do dumb stuff
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [Darkweb kittens](https://github.com/alexhaydock/DarkwebKittens)
