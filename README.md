@@ -34,6 +34,7 @@
  - [Useless repos](#completely-useless-repos)
  - [Repos that do dumb stuff](#repos-that-do-dumb-stuff)
 - [Repos with vulgar names](#repos-with-vulgar-names)
+- [Satirical users](#dumb-users)
 - [Related lists](#related-lists)
 
 ## Gitposts
@@ -41,6 +42,7 @@
 - [Potato](https://github.com/drtshock/Potato)
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [Pewpew](https://github.com/hrbrmstr/pewpew)
+- [No Code](https://github.com/kelseyhightower/nocode)
 - [Meta](/README.md)
 ### Repos that do dumb stuff
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
@@ -49,11 +51,17 @@
 - [HoneyPoC](https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC)
 - [Threat Actor Names](https://github.com/Plazmaz/threat-actor-names)
 - [Pokémon or Big Data](https://github.com/pixelastic/pokemonorbigdata)
+- [Free](https://github.com/adam-mcdaniel/free)
+- [Effective Increment](https://github.com/anikait1/EffectiveIncrement)
+- [Python Communism](https://github.com/jokteur/python_communism)
 
 
 ## Repos with vulgar names
 - [The Fuck](https://github.com/nvbn/thefuck)
 - [go-fuck-yourself](https://github.com/adamryman/go-fuck-yourself)
+
+## Satirical users
+- [God](https://github.com/god)
 
 ## Related lists
 - [github-drama](https://github.com/nikolas/github-drama/)
