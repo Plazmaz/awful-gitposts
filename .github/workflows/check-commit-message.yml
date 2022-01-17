@@ -21,7 +21,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Validate PR commits
-    runs-on: ubuntu-latest
     steps:
       - name: Check commit messages
         uses: gsactions/commit-message-checker@v1
