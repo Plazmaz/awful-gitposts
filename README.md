@@ -43,8 +43,11 @@
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [Pewpew](https://github.com/hrbrmstr/pewpew)
 - [No Code](https://github.com/kelseyhightower/nocode)
+- [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 - [Meta](/README.md)
-### Repos that do dumb stuff
+### Repos that do dumb stuff 
+- [five](https://github.com/jackdclark/five)
+- [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt)
 - [cage.js](https://github.com/hristozov/cage.js)
 - [mitnal (Twitter client for UEFI)](https://github.com/arata-nvm/mitnal)
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
