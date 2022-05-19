@@ -4,6 +4,8 @@
 </h1>
 <p align="center">
  <i>This readme is largely a parody of <a href="https://github.com/sindresorhus/awesome-nodejs/blob/main/readme.md">awesome-nodejs</a></i><br>
+ Commit title screwup tally:<br>
+	💩
 </p>
 <hr>
 <p align="center">
