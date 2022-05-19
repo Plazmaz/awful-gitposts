@@ -1,5 +1,6 @@
 ![bad memes](memes/awesome-logo-opt.svg)
 <h1 align="center">
+	not so <a href="https://youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://awesome.re/badge.svg"/></a>.<br>
  A bad repo for bad people
 </h1>
 <p align="center">
