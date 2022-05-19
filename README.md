@@ -45,6 +45,8 @@
 - [No Code](https://github.com/kelseyhightower/nocode)
 - [Meta](/README.md)
 ### Repos that do dumb stuff
+- [cage.js](https://github.com/hristozov/cage.js)
+- [mitnal (Twitter client for UEFI)](https://github.com/arata-nvm/mitnal)
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [Darkweb kittens](https://github.com/alexhaydock/DarkwebKittens)
 - [A terrible mute switch](https://github.com/EelisRouvinen/mute-switch)
