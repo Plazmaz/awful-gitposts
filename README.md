@@ -71,6 +71,10 @@
 - [Python Communism](https://github.com/jokteur/python_communism)
 - [eeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/blob/eeeeeeeeeeeeeeeeeeeeeeee/eee.c)
 - [pdf2mp3](https://github.com/xen0bit/pdf2mp3)
+- [doom-in-doom](https://github.com/kgsws/doom-in-doom)
+- [activate-linux](https://github.com/MrGlockenspiel/activate-linux)
+- [Pokemon-Shellcode-Loader](https://github.com/Techryptic/Pokemon-Shellcode-Loader)
+- [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks)
 
 
 ## Repos with vulgar names
