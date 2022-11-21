@@ -75,6 +75,8 @@
 - [activate-linux](https://github.com/MrGlockenspiel/activate-linux)
 - [Pokemon-Shellcode-Loader](https://github.com/Techryptic/Pokemon-Shellcode-Loader)
 - [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks)
+- [is-even](https://github.com/i-voted-for-trump/is-even)/[is-odd](https://github.com/i-voted-for-trump/is-odd)
+- [five](https://github.com/jackdclark/five)
 
 
 ## Repos with vulgar names
