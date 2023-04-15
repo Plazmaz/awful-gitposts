@@ -77,6 +77,10 @@
 - [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks)
 - [is-even](https://github.com/i-voted-for-trump/is-even)/[is-odd](https://github.com/i-voted-for-trump/is-odd)
 - [five](https://github.com/jackdclark/five)
+- [qlobe](https://github.com/knoxknox/qlobe)
+- [CatGPT](https://github.com/woutervdijke/CatGPT)
+- [FOAAS](https://github.com/tomdionysus/foaas)
+- [ButtFish](https://github.com/RonSijm/ButtFish)
 
 
 ## Repos with vulgar names
